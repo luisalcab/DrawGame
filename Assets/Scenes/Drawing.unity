@@ -650,7 +650,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Transparency: 1
-  buttonContinue: {fileID: 0}
+  boton: {fileID: 0}
 --- !u!4 &863017132
 Transform:
   m_ObjectHideFlags: 0
