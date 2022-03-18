@@ -5,6 +5,6 @@ _Preguntas:_
 - Viso / espacial 
 - Memoria semántica 
 
-_Deerechos de autor_
+_Derechos de autor_
 
-Todos los assets utilizados en el desarrollo de la aplicación y algunos de los scripts están bajo la liciencia: [Standard Unity Asset Store EULA](https://unity3d.com/legal/as_terms)
+Todos los assets utilizados en el desarrollo del programa y algunos de los scripts están bajo la liciencia: [Standard Unity Asset Store EULA](https://unity3d.com/legal/as_terms)
